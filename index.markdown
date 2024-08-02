@@ -16,8 +16,7 @@ Jeremy Seeman is a Research Associate in the Data Governance and Privacy group a
 
 Jeremy's research focuses on technical and policy solutions for responsible data sharing, with an emphasis on deploying and governing privacy-enhancing technologies to responsibly expand access to sensitive public good data sources. His work has been featured in numerous interdisciplinary venues including statistics, computer science, law, philosophy, and policy. Jeremy's work develops privacy-ehnacing data sharing solutions for numerous public good organizations, including the National Science Foundation, U.S. Census Bureau, and the Bureau of Justice Statistics. 
 
-Before joining Urban, Seeman was a Michigan Data Science Fellow at the University of Michigan and a faculty affiliate of the Center for Ethics, Society, and Computing. Seeman received his BS in physics and MS in statistics from the University of Chicago
-and his PhD in statistics from Penn State University, where he was a U.S. Census Bureau Dissertation Fellow.
+Before joining Urban, Seeman was a Michigan Data Science Fellow at the University of Michigan. He received his BS in physics and MS in statistics from the University of Chicago and his PhD in statistics from Penn State University, where he was a U.S. Census Bureau Dissertation Fellow.
 
 ## Recent news: 
 
