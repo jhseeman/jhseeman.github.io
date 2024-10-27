@@ -20,6 +20,7 @@ Before joining Urban, Seeman was a Michigan Data Science Fellow at the Universit
 
 ## Recent news: 
 
+* I joined the organizing committee for the [6th AAAI Workshop on Privacy-Preserving Artificial Intelligence](https://ppai-workshop.github.io/).
 * Our paper "Privately Answering Queries on Skewed Data via Per Record Differential Privacy" (w/ William Sexton, David Pujol, and Ashwin Machanavajjhala) has been accepted at [International Conference on Very Large Data Bases (VLDB)](https://arxiv.org/abs/2310.12827), describing new privacy-preserving methodolgoy for the U.S. Census Bureau's [County Business Patterns (CBP) dataset](https://www.census.gov/programs-surveys/cbp.html). 
 * I joined the **brand new** [Data Governance and Privacy practice area](https://www.urban.org/research-methods/data-governance-and-privacy) at the Urban Institute!
 * Our paper "Privacy's Odd Couple: Privacy Law and Privacy Engineering on Inference and Information Recovery" (w/ Palak Jain and Daniel Susser) appeared at [Privacy Law Scholar's Conference](https://privacyscholars.org/plsc-2024/)
