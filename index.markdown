@@ -7,20 +7,20 @@ profile_picture:
 
 # Hello! 
 
-I am a Research Associate at the [Urban Institute](https://www.urban.org/) and an adjunct professor at the [Inter-University Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/) at the University of Michigan. 
+I am a Research Associate at in the [Data Governance and Privacy Practice Area](https://www.urban.org/expertise/data-governance-and-privacy) at the [Urban Institute](https://www.urban.org/) and an adjunct professor at the [Inter-University Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/) at the University of Michigan. 
 
 
 ## Bio: 
 
 Jeremy Seeman is a Research Associate in the Data Governance and Privacy group at the Urban Institute, an adjunct professor at the [Inter-University Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/) at the University of Michigan, and an affiliate faculty member of the [Center for Ethics, Society, and Computing (ESC)](https://esc.umich.edu). 
 
-Jeremy's research focuses on technical and policy solutions for responsible data sharing, with an emphasis on deploying and governing privacy-enhancing technologies to responsibly expand access to sensitive public good data sources. His work has been featured in numerous interdisciplinary venues including statistics, computer science, law, philosophy, and policy. Jeremy's work develops privacy-ehnacing data sharing solutions for numerous public good organizations, including the Federal Statistical Agencies like the National Science Foundation, U.S. Census Bureau, Internal Revenue Service, and the Bureau of Justice Statistics. 
+Jeremy's research focuses on technical and policy solutions for responsible data sharing, with an emphasis on deploying and governing privacy-enhancing technologies to responsibly expand access to sensitive public good data sources. His work has been featured in numerous interdisciplinary venues including statistics, computer science, law, philosophy, and policy. Jeremy's work develops privacy-ehnacing data sharing solutions including research methods, open-source software, governance strategies, and policy analyses. His work supports the missions of numerous public good organizations, including Federal Statistical Agencies like the National Science Foundation, U.S. Census Bureau, Internal Revenue Service, and the Bureau of Justice Statistics. 
 
 Before joining Urban, Seeman was a Michigan Data Science Fellow at the University of Michigan. He received his BS in physics and MS in statistics from the University of Chicago and his PhD in statistics from Penn State University, where he was a U.S. Census Bureau Dissertation Fellow.
 
 ## Recent news: 
 * I talked about / taught privacy-enhancing technologies at the inaugural Georgetown University [PETs Summer Institute](https://mdi.georgetown.edu/privacy-enhancing-technologies/2025-summer-institute/). 
-* New open-source software: [`tidysynthesis`](https://github.com/UrbanInstitute/tidysynthesis) and [`syntheval`](https://github.com/UrbanInstitute/syntheval) for synthetic data decision-making management in generation and evaluation. Read the [docs](https://ui-research.github.io/tidysynthesis-documentation/) to learn more!
+* New open-source software: [tidysynthesis](https://github.com/UrbanInstitute/tidysynthesis) and [syntheval](https://github.com/UrbanInstitute/syntheval) for synthetic data decision-making management in generation and evaluation. Read the [docs](https://ui-research.github.io/tidysynthesis-documentation/) to learn more!
 * Two new policy briefs: 
   * New Urban Institute brief on [Synthetic Data for Nebraska's Statewide Workforce and Education Reporting System (NSWERS)](https://www.urban.org/research/publication/synthetic-data-nebraska-statewide-workforce-educational-reporting-system) 
   * New policy brief for the [Federation of American Scientists on Responsible Data Sharing in Government](https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/), completed during my postdoc at UMich.
