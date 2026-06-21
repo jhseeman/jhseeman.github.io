@@ -6,7 +6,11 @@ This page is only periodically updated - see my [Google Scholar](https://scholar
 
 ## Selected publications
 
-* Seeman, Si, and Reiter. "Differentially Private Population Quantity Estimates via Survey Weight Regularization." 2025, National Bureau of Economic Research, under revision at Harvard Data Science Review. [preprint](https://arxiv.org/abs/2411.04236).
+* Spector-Bagdady, Seeman, Marcus, and Maust. "Identifying ``Identifiability``: From Regulatory Illusions to Techno-normative Frameworks to Protect Health Data Privacy." 2026, Privacy Law Scholar's Conference, Full Paper Under Revision. [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777360). 
+* Seeman, Si, and Reiter. "Toward Differentially Private Finite Population Estimation: An Approach Based on Survey Weight Regularization." 2026, Harvard Data Science Review [article](https://hdsr.mitpress.mit.edu/pub/2f0veaek/release/2).
+* Abdu, Seeman, and Jacobs. "Ethical Closure Problems in Formalizing Technologies." 2026, Privacy Law Scholar's Conference,, Full Paper Under Revision at ACM Journal of Responsible Computing. [preprint](https://aminaxabdu.github.io/docs/closure-preprint.pdf)
+* Neunhoffer, Seeman, and Drechsler. "On the Formal Privacy Guarantees of Synthetic Data (Generated Without Formal Privacy Guarantees)." 2026, Harvard Data Science Review. [article](https://hdsr.mitpress.mit.edu/pub/j9p0axa5/release/3)
+* Seeman, Si, and Reiter. "Differentially Private Population Quantity Estimates via Survey Weight Regularization." 2025, National Bureau of Economic Research [preprint](https://arxiv.org/abs/2411.04236).
 * Seeman and Susser. "Critical Provocations for Synthetic Data." Surveillance and Society, 2024. [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283836). 
 * Seeman, Sexton, Pujol, and Machanavajjhala. "Privately Answering Queries on Skewed Data via Per Record Differential Privacy." Very Large DataBases, 2024. [preprint](https://arxiv.org/abs/2310.12827)[poster](https://drive.google.com/file/d/1v6H7Lh7fqw-T0ZUarpU3m2u1IUnyHAYz/view?usp=sharing)
 * Seeman and Susser. "Between Privacy and Utility: On Differential Privacy in Theory and Practice." ACM Journal on Responsible Computing, 2023. [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283836). 
